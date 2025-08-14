@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugins>
+  <pyqgis_plugin name="MeinPlugin" version="1.0.0" qgisMinimumVersion="3.0">
+    <description>Mein großartiges Plugin</description>
+    <about>Hilft bei XYZ</about>
+    <version>1.0.0</version>
+    <qgis_minimum_version>3.0</qgis_minimum_version>
+    <download_url>https://github.com/username/meinplugin/releases/download/v1.0.0/meinplugin.zip</download_url>
+  </pyqgis_plugin>
+</plugins>
