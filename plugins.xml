@@ -2,7 +2,7 @@
 <plugins>
   <pyqgis_plugin name="Layer Renamer" version="0.1.3" qgisMinimumVersion="3.0">
     <description>Plugin for search and replace in layers pane</description>
-    <about>Hilft bei XYZ</about>
+    <about>This plugin allows you to search and replace in layers pane</about>
     <version>0.1.3</version>
     <qgis_minimum_version>3.0</qgis_minimum_version>
     <download_url>https://github.com/mreger1508/layer_renamer/releases/tag/version_0.1.3</download_url>
